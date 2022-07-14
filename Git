@@ -1,0 +1,34 @@
+
+
+#git cloning command
+
+git clone <git url>
+
+#git branch status
+
+git branch
+
+#Create git branch name
+
+git branch <new branch name>
+
+#git branch name change
+
+git checkout <branch name>
+
+#Add file name
+
+git add <file name>
+
+#git status
+
+git status 
+
+#any file pushing commit message ,Local stored 
+
+git commit -m "<message>"
+
+#git push the file
+
+git push
+
